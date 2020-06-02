@@ -1,4 +1,4 @@
 # Random-Cipher
 
 ### 10/30/2016
-This is a random password generator written in Python. You can use it to generate your random password, its length is 20 ~ 10 characters, including 13 commonly used symbols, 26 English letters, as well as 0 ~ 9 of the number. But this is just a simple random number generation, and I am just a beginner, so it may have a certain risk, so do not put it in your work or life of the password.
+This is a random password generator written in Python. You can use it to generate your random password, which includes 13 commonly used symbols, 26 English letters, as well as the numbers 0 ~ 9. But it is only implemented through a simple random number generator (I do it just for practice), so it may have a certain risk, and you are on your own risk.
